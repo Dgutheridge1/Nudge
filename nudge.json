@@ -3,10 +3,8 @@
     {
       "targetedOSVersionsRule": "default",
       "requiredMinimumOSVersion": "27.0.1",
+      "fakeMinimumOSVersion": "99.0.0",
       "requiredInstallationDate": "2026-11-01T00:00:00Z"
     }
-  ],
-  "userExperience": {
-    "fakeMinimumOSVersion": "99.0.0"
-  }
+  ]
 }
